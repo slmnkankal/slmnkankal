@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Frontend and Backend Development
 - 🌱 I’m currently learning JavaScript and Python
 - 🌱 I’m currently learning React and Django
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
