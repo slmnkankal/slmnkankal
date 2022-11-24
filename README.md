@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,sass,bootstrap,postman,py,django,sqlite,postgres,linux,git,github,netlify,heroku,linkedin)](https://skillicons.dev)
 
-This is my Flight App
+This is Flight App
 
 ![flight-app-register-login](https://user-images.githubusercontent.com/94119964/197400296-b861cf8b-47b5-4f96-9525-7fac77d1c4a4.gif)
 
