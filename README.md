@@ -13,17 +13,12 @@ Here are some ideas to get you started:
 
 This is Flight App
 
-![flight-app-register-login](https://user-images.githubusercontent.com/94119964/197400296-b861cf8b-47b5-4f96-9525-7fac77d1c4a4.gif)
-
-![flight-app-user-and-staff-user](https://user-images.githubusercontent.com/94119964/197400340-23f16923-0183-4baa-973d-da3dd4cdecb7.gif)
-
 ![flight-app-flights-add-update-delete](https://user-images.githubusercontent.com/94119964/197400377-6c948b44-5d16-4958-bd7a-11aee22abdf5.gif)
 
 This is Ecommerce Website
 
 ![ecommerce-product-and-review](https://user-images.githubusercontent.com/94119964/216996637-507718f5-f576-4679-b96f-dc55956f50ec.gif)
 
-![flight-app-reservations-passengers-add-update-delete](https://user-images.githubusercontent.com/94119964/197400353-94c88dc7-521a-4ee3-9086-dee81293cd64.gif)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
